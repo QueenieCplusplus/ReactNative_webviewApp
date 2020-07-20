@@ -5,8 +5,10 @@ react-native-webview only support for native, not web
 
 // App.js
 
-import {object_name} from 'file_path2';
-import methodname from 'file_path1'
+    import {object_name} from 'file_path2';
+    import methodname from 'file_path1'
+    
+    ... omit ....
 
 
 // file_path2.js
@@ -35,8 +37,4 @@ import methodname from 'file_path1'
 
 
     }
-    
-
- 
- 
- 
+   
